@@ -38,7 +38,7 @@ This project is a Windows application built using C# .NET for managing students,
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/StudentCourseManagement.git
+   git clone https://github.com/ChethanKacham/StudentCourseManagement.git
    cd StudentCourseManagement
    
 2. **Set Up the Database**:
