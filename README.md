@@ -50,5 +50,7 @@ This project is a Windows application built using C# .NET for managing students,
    - Build and run the solution.
    - Use the provided login credentials to access the application.
 
+---
+
 ## 📌 Purpose
 This application was created as part of an assignment for the Advanced Application Programming in C# .NET course. It serves as a prototype for managing academic information.
